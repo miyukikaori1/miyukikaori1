@@ -8,7 +8,7 @@ Chỉ là một người hơi ngu ngơ thôi😊
 # 🎮 Game:
 🔥 **Game Accounts:**
 - ![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=valorant&logoColor=white) **PRX Miyuki#Kaori** (Rank: Bronze)
-- ![Liên Minh Huyền Thoại](https://img.shields.io/badge/League%20of%20Legends-0055D9?style=for-the-badge&logo=riot-games&logoColor=white) **PRX Miyuki#Kaori** (Rank: Ko có🤡)
+- ![Liên Minh Huyền Thoại](https://img.shields.io/badge/League%20of%20Legends-0055D9?style=for-the-badge&logo=leagueoflegends&logoColor=white) **PRX Miyuki#Kaori** (Rank: Ko có🤡)
 - ![Genshin Impact](https://img.shields.io/badge/Genshin%20Impact-00AADF?style=for-the-badge&logo=genshin-impact&logoColor=white) **UID: 845422867**
 - ![Honkai Star Rail](https://img.shields.io/badge/Honkai%20Star%20Rail-222222?style=for-the-badge&logo=hoyoverse&logoColor=white) **UID: 831273794**
 
